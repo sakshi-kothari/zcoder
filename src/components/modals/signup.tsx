@@ -50,7 +50,7 @@ try {
 	}
 	useEffect(() => {
 		if (error) {
-			alert(error.message);
+			alert(error);
 		}
 	}, [error]);
 	
