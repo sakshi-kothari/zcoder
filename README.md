@@ -24,6 +24,6 @@ Welcome to LeetCode-clone, a dynamic coding challenge platform built with Next.j
 
 ## Screenshots
 
-<img width="1918" height="968" alt="homepage" src="https://github.com/user-attachments/assets/e2997dda-ce63-4f59-81c1-dd0d7f90ac24" />
-<img width="1304" height="666" alt="secondpage" src="https://github.com/user-attachments/assets/69711cec-77fc-4d06-b075-1d0419d82663" />
-<img width="1160" height="545" alt="thirdpage" src="https://github.com/user-attachments/assets/e970ba68-108d-46b0-bbd6-1fcda5276818" />
+<img width="900" height="500" alt="homepage" src="https://github.com/user-attachments/assets/e2997dda-ce63-4f59-81c1-dd0d7f90ac24" />
+<img width="900" height="500" alt="secondpage" src="https://github.com/user-attachments/assets/69711cec-77fc-4d06-b075-1d0419d82663" />
+<img width="900" height="500" alt="thirdpage" src="https://github.com/user-attachments/assets/e970ba68-108d-46b0-bbd6-1fcda5276818" />
